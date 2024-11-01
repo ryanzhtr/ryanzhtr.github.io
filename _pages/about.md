@@ -35,7 +35,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div> -->
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **ICRA 2024**
+- [Bionic Soft Fingers with Hybrid Variable Stiffness Mechanisms for Multimode Grasping], Xiangbo Wang, **Tianran Zhang**, **ICRA 2024**
 
 # 🎖 Honors and Awards
 - *2024.07* ROBOCON 2024, third place.
