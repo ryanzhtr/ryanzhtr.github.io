@@ -35,15 +35,16 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div> -->
 
-- [Bionic Soft Fingers with Hybrid Variable Stiffness Mechanisms for Multimode Grasping], Xiangbo Wang, **Tianran Zhang**, **ICRA 2024**
+- [Bionic Soft Fingers with Hybrid Variable Stiffness Mechanisms for Multimode Grasping], Xiangbo Wang, **Tianran Zhang**, Zhenwei Wen, **ICRA 2024**
 
 # 🎖 Honors and Awards
-- *2024.07* ROBOCON 2024, third place.
+- *2024.07* ROBOCON 2024, **The third place**.
 
 # 📖 Educations
-- *2019.09 - 2024.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2019.09 - 2024.06*, Beihang University, School of Mechanical Engineering and Automation, **B.S.**
 
 # 💬 Invited Talks
 - Nothing yet.
+
 # 💻 Internships
 - *2024.09 - now*, [Zhipu](https://www.zhipuai.cn/), China.
