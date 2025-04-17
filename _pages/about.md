@@ -17,9 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm currently a robot algorithm intern in Zhipu Tech Co., Ltd, working on non-revisiting path planning for robotic arm.
-
-I graduated from [School of Mechanical Engineering and Automation](https://www.me.buaa.edu.cn), Beihang University with a bachelor's degree. I'm looking for a potential supervisor for my graduate studies now.
+I graduated from [School of Mechanical Engineering and Automation](https://www.me.buaa.edu.cn), Beihang University with a bachelor's degree. I am currently working as a research assistant in the IRPN Lab at the Hong Kong University of Science and Technology (Guangzhou), under the supervision of Prof. Li Haoang, and will continue my studies of Master of Philosophy in September, 2025.
 
 My research interest includes manipulation, robot whole-body control and reinforcement learning.
 
