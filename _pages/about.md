@@ -43,10 +43,10 @@ My research interest includes manipulation, robotic arm trajectory planning and 
 - *2024.07* ROBOCON 2024, **The third place**.
 
 # 📖 Educations
-- *2019.09 - 2024.06*, Beihang University, School of Mechanical Engineering and Automation, **B.Eng.**
+- *2020.09 - 2024.06*, Beihang University, School of Mechanical Engineering and Automation, **B.Eng.**
 
 <!-- # 💬 Invited Talks
 - Nothing yet. -->
 
 # 💻 Internships
-- *2024.09 - now*, [Zhipu](https://www.zhipuai.cn/), China.
+- *2024.09 - 2025.02*, [Zhipu](https://www.zhipuai.cn/), China.
