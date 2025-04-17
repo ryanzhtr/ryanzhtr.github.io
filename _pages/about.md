@@ -21,7 +21,7 @@ I'm currently a robot algorithm intern in Zhipu Tech Co., Ltd, working on non-re
 
 I graduated from [School of Mechanical Engineering and Automation](https://www.me.buaa.edu.cn), Beihang University with a bachelor's degree. I'm looking for a potential supervisor for my graduate studies now.
 
-My research interest includes manipulation, robotic arm trajectory planning and reinforcement learning.
+My research interest includes manipulation, robot whole-body control and reinforcement learning.
 
 # 📝 Publications 
 
