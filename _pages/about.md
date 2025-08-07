@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I graduated from [School of Mechanical Engineering and Automation](https://www.me.buaa.edu.cn), Beihang University with a bachelor's degree. I am currently working as a research assistant in the IRPN Lab at the Hong Kong University of Science and Technology (Guangzhou), under the supervision of Prof. Li Haoang, and will continue my studies of Master of Philosophy in September, 2025.
+I graduated from [School of Mechanical Engineering and Automation](https://www.me.buaa.edu.cn), Beihang University with a bachelor's degree. I am currently an MPhil student at the Hong Kong University of Science and Technology (Guangzhou), under the supervision of Prof. Boyu Zhou and Prof. Jun Ma.
 
-My research interest includes manipulation, robot whole-body control and reinforcement learning.
+My research interest includes **Manipulation**, **Vision-Language Navigation** and **Reinforcement Learning**.
 
 # 📝 Publications 
 
@@ -46,5 +46,6 @@ My research interest includes manipulation, robot whole-body control and reinfor
 <!-- # 💬 Invited Talks
 - Nothing yet. -->
 
-# 💻 Internships
+# 💻 Experiences
 - *2024.09 - 2025.02*, [Zhipu](https://www.zhipuai.cn/), China.
+- *2023.09 - 2024.09*，Captain of Beihang Robotics Team, China.
